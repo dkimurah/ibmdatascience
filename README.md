@@ -1,3 +1,3 @@
 # ibmdatascience
 ## Editing file
-Its a markdown in this repo
+Its a markdown in this repository
